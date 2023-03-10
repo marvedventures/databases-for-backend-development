@@ -42,7 +42,9 @@
 
 
 -- d. COMMENT Command
--- Purpose: To add comments to explain or document SQL statements by using double dash (--) at the start of the line. Any text after the double dash will not be executed as part of the SQL statement. These comments are not there to build the database. They are only for your own use.
+-- Purpose: To add comments to explain or document SQL statements by using double dash (--) at the start of the line. 
+-- Any text after the double dash will not be executed as part of the SQL statement. 
+-- These comments are not there to build the database. They are only for your own use.
 
     -- Syntax to COMMENT a line in SQL: 
     -- Retrieve all data from a table
