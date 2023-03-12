@@ -22,6 +22,10 @@
 
 #######################################################################################
 
+- [What are tables?](https://github.com/marvedventures/databases-for-backend-development/blob/master/1-introduction-to-databases/basic-database-structure/database-tables.sql)
+- [Database Structures](https://github.com/marvedventures/databases-for-backend-development/blob/master/1-introduction-to-databases/basic-database-structure/database-structure.sql)
+- [Types of Keys in a Database](https://github.com/marvedventures/databases-for-backend-development/blob/master/1-introduction-to-databases/basic-database-structure/database-tables.sql)
+
 ## Create, Read, Update, Delete(CRUD) Operations
 
 ### SQL Data Types
