@@ -30,6 +30,8 @@
 
 ### SQL Data Types
 
+- [Numeric Data Types](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/sql-data-types/numeric-datatypes.sql)
+
 ### Create and Read
 
 ### Update and Delete
