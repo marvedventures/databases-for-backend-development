@@ -3,7 +3,9 @@
 
 -- Goal:
 
--- The goal of this exercise is for you to learn how to work with numerical values in a database. The objective of the exercise is that you will be able to demonstrate how to work with numerical data types in SQL. In this exercise, you will learn about two main variations of numeric data types. 
+-- The goal of this exercise is for you to learn how to work with numerical values in a database. 
+-- The objective of the exercise is that you will be able to demonstrate how to work with numerical data types in SQL. 
+-- In this exercise, you will learn about two main variations of numeric data types. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 

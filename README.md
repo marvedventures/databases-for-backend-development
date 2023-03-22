@@ -32,6 +32,8 @@
 
 - [Numeric Data Types](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/sql-data-types/numeric-datatypes.sql)
 - [Exercise: Working with numbers](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/sql-data-types/working-with-numbers.sql)
+- [String Data Types](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/sql-data-types/string-datatypes.sql)
+- [Exercise: Working with strings](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/sql-data-types/working-with-strings.sql)
 
 ### Create and Read
 
