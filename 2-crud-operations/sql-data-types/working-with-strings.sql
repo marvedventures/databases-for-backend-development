@@ -29,7 +29,7 @@ USE cm_devices;
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
--- Task 2: Create a SQL statement with relevant attributes and data types 
+-- Task 2: Create a TABLE SQL statement with relevant attributes and data types 
 -- 1.  Based on 'CM Mobiles' requirements the customers table will have three columns: 
 
 -- ●	username 
