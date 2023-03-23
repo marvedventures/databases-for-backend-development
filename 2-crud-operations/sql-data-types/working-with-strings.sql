@@ -36,11 +36,19 @@ USE cm_devices;
 -- ●	full name 
 -- ●	email address
 
--- 2.  The customer username contains alphanumeric values such as: Custom001, Custom002, and Custom003. Notice here that the username is always nine characters in length, so choose the CHAR datatype as it allows for a fixed length of characters. In this case, choose 9 characters, no more or less. 
+-- 2.  The customer username contains alphanumeric values such as: Custom001, Custom002, and Custom003. 
+-- Notice here that the username is always nine characters in length, so choose the CHAR datatype as it allows for a fixed length of characters.
+-- In this case, choose 9 characters, no more or less. 
 
 CREATE TABLE customers(username CHAR(50), fullname VARCHAR(100), email VARCHAR(255));
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
+-- Task: 3 : Access the customers table that was created inside the cm_mobiles database
 
+SHOW TABLES;
+
+SHOW COLUMNS from customers;
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
