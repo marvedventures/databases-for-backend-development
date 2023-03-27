@@ -40,6 +40,14 @@
 
 ### Create and Read
 
+- [CREATE and DROP database](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/create-and-read/create-and-drop.sql)
+- [CREATE TABLE statement (DDL)](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/create-and-read/create-table.sql)
+- [ALTER TABLE statement (DDL)](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/create-and-read/alter-table.sql)
+- [INSERT Statement (DML)](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/create-and-read/insert.sql)
+- [Exercise: Create Database, create table and insert data](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/create-and-read/working-with-create-db-table-inserting-data.sql)
+- [SELECT Statement (DQL)](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/create-and-read/select.sql)
+- [INSERT INTO SELECT Statement (DML)](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/create-and-read/select.sql)
+
 ### Update and Delete
 
 #######################################################################################
