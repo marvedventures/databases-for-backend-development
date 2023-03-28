@@ -47,6 +47,7 @@
 - [Exercise: Create Database, create table and insert data](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/create-and-read/working-with-create-db-table-inserting-data.sql)
 - [SELECT Statement (DQL)](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/create-and-read/select.sql)
 - [INSERT INTO SELECT Statement (DML)](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/create-and-read/select.sql)
+- [Exercise: Practicing Table Creation](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/create-and-read/working-with-table-creation.sql)
 
 ### Update and Delete
 
