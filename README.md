@@ -51,6 +51,9 @@
 
 ### Update and Delete
 
+- [Updating Data](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/update-and-delete/updating-data.sql)
+- [Deleting Data](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/update-and-delete/deleting-data.sql)
+
 #######################################################################################
 
 ## SQL operators and sorting and filtering data
