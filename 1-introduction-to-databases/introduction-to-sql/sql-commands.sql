@@ -94,7 +94,7 @@
     -- 1. Syntax to select all data from a table:
     SELECT * FROM table_name;
     -- 2. Syntax to select data from a table:
-    SELECT column_name1, column_name2 FROM table_name WHERE column_name = value;
+    SELECT column_name1, column_name2 FROM table_name;
 
     
 ---------------------------------------------------------------------------------------------------------------------------------------------------
