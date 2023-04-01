@@ -51,8 +51,9 @@
 
 ### Update and Delete
 
-- [Updating Data](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/update-and-delete/updating-data.sql)
-- [Deleting Data](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/update-and-delete/deleting-data.sql)
+- [Updating Data (DML)](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/update-and-delete/updating-data.sql)
+- [Deleting Data (DML)](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/update-and-delete/deleting-data.sql)
+- [Exercise: Working with Record Deletion](https://github.com/marvedventures/databases-for-backend-development/blob/master/2-crud-operations/update-and-delete/deleting-with-record-deletion.sql)
 
 #######################################################################################
 

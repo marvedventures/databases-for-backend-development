@@ -3,8 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 -- SQL SELECT statement syntax:
--- note: semi-colon at the end of a SELECT statement is NOT MANDATORY
-
+-- note: semi-colon at the end of a SELECT statement is NOT MANDATORY, but must use it if using it in CMD(terminal)
 -- Query one column:
 SELECT column_name FROM table_name;
 
