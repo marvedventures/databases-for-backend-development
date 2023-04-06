@@ -59,9 +59,11 @@
 
 ## SQL operators and sorting and filtering data
 
-- [SQL Arithmetic Operators](https://github.com/marvedventures/databases-for-backend-development/blob/master/3-sql-operators-sorting-and-filtering-data/sql-operators/sql-arithmetic-operators.sql)
-
 ### SQL operators
+
+- [SQL Arithmetic Operators](https://github.com/marvedventures/databases-for-backend-development/blob/master/3-sql-operators-sorting-and-filtering-data/sql-operators/sql-arithmetic-operators.sql)
+- [SQL Comparison Operators](https://github.com/marvedventures/databases-for-backend-development/blob/master/3-sql-operators-sorting-and-filtering-data/sql-operators/sql-comparison-operators.sql)
+- [Exercise: Working with SQL Arithmetic Operators](https://github.com/marvedventures/databases-for-backend-development/blob/master/3-sql-operators-sorting-and-filtering-data/sql-operators/working-with-operators/working-with-arithmetic-operators.sql)
 
 ### Sorting and filtering Data
 
