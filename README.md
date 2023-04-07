@@ -67,6 +67,10 @@
 
 ### Sorting and filtering Data
 
+- [ORDER BY clause](https://github.com/marvedventures/databases-for-backend-development/blob/master/3-sql-operators-sorting-and-filtering-data/sorting-and-filtering-data/order-by-clause.sql)
+- [WHERE clause](https://github.com/marvedventures/databases-for-backend-development/blob/master/3-sql-operators-sorting-and-filtering-data/sorting-and-filtering-data/where-clause.sql)
+- [Exercise: Working with ORDER BY and WHERE clause](https://github.com/marvedventures/databases-for-backend-development/blob/master/3-sql-operators-sorting-and-filtering-data/sorting-and-filtering-data/working-with-order-by-and-where.sql)
+
 #######################################################################################
 
 ## Database Design
