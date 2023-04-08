@@ -76,11 +76,11 @@
 
 ## Database Design
 
+### Designing Database schema
+
 - [Database Schema](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/designing-database-schema/database-schema.sql)
 - [Exercise: Shopping Cart Schema](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/designing-database-schema/shopping-cart-schema)
 - [Exercise: Restaurant Schema](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/designing-database-schema/restaurant-schema)
-
-### Designing Database schema
 
 ### Relational database design
 
