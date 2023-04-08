@@ -87,6 +87,8 @@
 - [Table Relationships](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/relational-database-design/table-relationships.sql)
 - [Primary Key](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/relational-database-design/primary-key.sql)
 - [Foreign Key](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/relational-database-design/foreign-key.sql)
+- [Finding Entities](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/relational-database-design/finding-entities.sql)
+- [Entity Relationship Diagram (ERD)](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/relational-database-design/erd.sql)
 
 ### Database normalization
 
