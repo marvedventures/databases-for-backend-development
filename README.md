@@ -92,4 +92,10 @@
 
 ### Database normalization
 
-#######################################################################################
+- [What is Database Normalization?](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/database-normalization/database-normalization.sql)
+- [First normal form (1NF)](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/database-normalization/1nf.sql)
+- [Second normal form (2NF)](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/database-normalization/2nf.sql)
+- [Third normal form (3NF)](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/database-normalization/3nf.sql)
+- [Exercise: Working with Database Schema](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/working-with-database-schema)
+
+  #######################################################################################
