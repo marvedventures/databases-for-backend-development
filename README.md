@@ -98,4 +98,4 @@
 - [Third normal form (3NF)](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/database-normalization/3nf.sql)
 - [Exercise: Working with Database Schema](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/working-with-database-schema)
 
-  #######################################################################################
+#######################################################################################
