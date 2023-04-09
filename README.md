@@ -99,3 +99,9 @@
 - [Exercise: Working with Database Schema](https://github.com/marvedventures/databases-for-backend-development/blob/master/4-database-design/working-with-database-schema)
 
 #######################################################################################
+
+## Database Exercise
+
+- [Database Exercise](https://github.com/marvedventures/databases-for-backend-development/blob/master/5-database-exercise/exercise.sql)
+
+#######################################################################################
